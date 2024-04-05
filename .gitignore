@@ -1,0 +1,6 @@
+/venv
+venv/
+2017_jun_final.csv
+*.zip
+*.py
+/.ipynb_checkpoints
